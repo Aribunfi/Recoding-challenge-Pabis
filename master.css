@@ -1,0 +1,76 @@
+body {
+  background-image: url('background.jpg');
+  background-size: cover;
+}
+
+.logo {
+  width: 150px;
+  height: 70px;
+}
+
+h1 {
+  margin: auto;
+}
+
+h5 {
+  font-weight: normal;
+}
+
+.riquadro {
+  width: 850px;
+  height: 600px;
+
+  margin: auto;
+  margin-top: 30px;
+  padding: 25px;
+
+  border-radius: 30px;
+  background-color: rgba(0, 0, 0, 0.5);
+
+  text-align: center;
+  vertical-align: middle;
+  align-items: center;
+
+  color: #00dd00;
+}
+
+.funzioni {
+  background-color: #00dd00;
+  border-radius: 0px;
+  width: 800px;
+  height: 35px;
+  justify-content: center;
+  margin: auto;
+  display: flex;
+  align-items: center;
+}
+
+.Monopattini {
+  color: white;
+  text-align: left;
+  padding: 20px;
+  line-height: 5px;
+  font-family: sans-serif;
+}
+
+.barra1 {
+  width: 300px;
+  height: 25px;
+  background-color: #f5b453;
+  border-radius: 5px;
+  line-height: 0;
+}
+
+.barra2 {
+  width: 500px;
+  height: 25px;
+  background-color: #1ec31e;
+  border-radius: 5px;
+}
+
+.barra3 {
+  width: 200px;
+  height: 25px;
+  background-color: #be4141;
+  border-radius: 5px;
+}
